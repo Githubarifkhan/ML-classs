@@ -7,3 +7,7 @@
 
 *MULTIPLE LINEAR REGRESSION* 
 https://machinelearningmedium.com/2017/08/23/multivariate-linear-regression/#targetText=Multivariate%20linear%20regression%20is%20the,and%20a%20dependent%20variable%20y%20.
+
+
+##polynomial regression---------------------------------------------------------------------
+https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
