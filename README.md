@@ -266,3 +266,38 @@ Pandas DatetimeIndex Functionality.
 
 1) What is Pandas DatetimeIndex Functionality
 2) read_csv parse_dates
+
+
+##MATPLOTLIB 
+plt.bar() & plt.barh() functions.
+1. How to plot two line/histograph/Bar chart using matplotlib?
+2. matplotlib plot multiple lines
+3. matplotlib xlabel
+4. matplotlib ylabel
+5. matplotlib title
+6. matplotlib axis
+7. matplotlib style use
+8. matplotlib grid
+9. matplotlib legend
+10. matplotlib figure size
+11. matplotlib show
+
+save figure(plot & chart) using the matplotlib plt.savefig() function.
+
+1.savefig
+2.save figure
+3.plt.savefig()
+4.savefig fname
+5.savefig dpi
+6.savefig quality
+7.savefig facecolor
+8.savefig projection
+9.savefig frameon
+10.savefig size
+
+
+2. how to show image using matplotlib plt.imshow() function
+3. how to draw or show color bar using matplotlib plt.colorbar() function
+4. how to show an image using cmap (color map) parameter
+5. how to save an image in the folder using matplotlib plt.savefig() function
+6. and more parameters, functions
