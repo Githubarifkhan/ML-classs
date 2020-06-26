@@ -78,3 +78,5 @@ https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
 55) np.char.not_equal()
 56) np.char.count()
 57) np.char.find()
+
+##python pandas functions 
