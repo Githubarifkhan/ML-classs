@@ -79,4 +79,190 @@ https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
 56) np.char.count()
 57) np.char.find()
 
-##python pandas functions 
+##  python pandas functions 
+
+1) Creating empty Series
+2) Creating Series from list
+3) Creating Series from scalar value
+4) Creating Series from Python Dictionary
+5) Mathematical Operations in Series
+6) Slicing in Series
+7) Handling Missing Data
+
+8) Creating Empty DataFrame
+9) Creating Pandas DataFrame from List
+10) Creating Pandas DataFrame from List of List/ ndaray
+11) Creating Pandas DataFrame from Dict
+12) Creating Pandas DataFrame from List of Dicts
+13) Creating Pandas DataFrame from Dict of Series
+14) os.getcwd()
+
+
+15) Pandas read_csv Function
+16) How to read csv File Using Pandas
+17) Parameters of read_csv Function
+-- Pandas read csv ‘nrows’
+-- Pandas read csv ‘usecols’
+-- Pandas read csv ‘skiprows’
+-- Pandas read csv ‘index_col’
+
+-- Parameters of read_csv Function
+-- Pandas read csv ‘header’
+-- Pandas read csv ‘prefix’
+-- Pandas read csv ‘names’
+
+1) Pandas head()
+2) Pandas tail()
+3) Pandas write csv ‘dtype’
+4) Pandas write csv ‘true_values‘
+5) Pandas write csv ‘false_values’
+
+1) Pandas read_csv na_values
+2) Pandas read_csv keep_default_na
+3) Pandas read_csv na_filter
+
+1) Pandas isnull()
+2) Pandas isnull().sum()
+3) Pandas isnull.sum().sum()
+4) Pandas notnull()
+5) Pandas dataframe.isnull()
+6) Pandas series.isnull()
+7) Pandas dataframe.notnull()
+
+How to Handle Missing Value.
+
+1) Pandas dropna()
+2) Parameters of dropna() method
+3) dropna axis
+4) dropna how
+5) dropna thresh
+6) dropna subset
+
+Pandas fillna() Method
+ 
+1) Pandas fillna()
+2) Parameters of fillna()
+3) fillna value
+4) fillna method
+5) fillna axis
+6) fillna inplace
+7) fillna limit
+
+pandas replace() Function
+
+1) What is Pandas replace() Function
+2) Parameters of replace() Function
+3) replace to_replace
+4) replace value
+5) replace inplace
+6) replace limit
+7) replace regex
+8) replace method
+
+Pandas interpolate() function.
+ 
+1) What is Pandas interpolate() Function
+2) Parameters of interpolate()
+3) interpolate method
+4) method = linear
+5) method = time
+6) method = index
+7) method = nearest
+8) method = polynomial
+9) method = spline
+
+Pandas interpolate() Function.
+
+1) What is Pandas interpolate() Function
+2) Parameters of interpolate()
+3) interpolate axis
+4) interpolate limit
+5) interpolate limit_direction
+6) interpolate limit_area
+7) interpolate inplace
+8) loc and iloc
+
+Pandas GroupBy Function.
+
+1) What is Pandas GroupBy Function
+2) Parameters of Pandas GroupBy Function
+3) groupby.().get_group()
+4) Splitting the Object into Group
+5) Applying a Function
+6) Applying Multiple Functions
+
+Pandas Merging Function.
+
+1) What is Pandas Merging Function ?
+2) Parameters of Pandas Merging Function
+3) Pandas merge on
+4) Pandas merge how
+5) Pandas merge indicator
+6) Pandas merge left_index
+7) Pandas merge right_index
+8) Pandas merge suffixes
+
+Pandas Concat Function.
+
+1) What is Pandas Concat Function?
+2) Parameters of Pandas Concat Function
+3) pd.concat()
+4) Concatenate Multiple Series
+5) Concatenate Multiple DataFrames
+6) Pandas concat 'objs'
+7) Pandas concat 'axis'
+8) Pandas concat 'ignore_index'
+
+Pandas Concat Function.
+
+1) pd.concat()
+2) Pandas concat join
+3) Pandas concat join_axes
+4) Pandas concat keys
+5) Pandas concat sort
+
+Pandas Join Method.
+
+1) What is Pandas Join() Method
+2) Parameters of Pandas Join Method
+3) Pandas join other
+4) Pandas join on
+5) Pandas join how
+6) Pandas join lsuffix
+7) Pandas join rsuffix
+
+
+Pandas Append Method.
+
+1) What is Pandas Append Function ?
+2) Parameters of Pandas Append Function
+3) pandas append other
+4) pandas append ignore_index
+5) pandas append sort
+
+Pandas pivot_table() Function
+
+1) What is Pandas Pivot Table
+2) Parameters of Pandas Pivot Table
+3) pivot_table()
+4) pivot table index
+5) pivot table columns
+6) pivot table aggfunc
+7) pivot table fill value
+8) pivot table margins
+
+Pandas Melt() Function.
+
+1) What is Pandas Melt Function
+2) Parameters of Pandas Melt Function
+3) pd.melt()
+4) pandas melt frame
+5) pandas melt id_vars
+6) pandas melt value_vars
+7) pandas melt var_name
+8) pandas melt value_name
+
+Pandas DatetimeIndex Functionality.
+
+1) What is Pandas DatetimeIndex Functionality
+2) read_csv parse_dates
